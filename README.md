@@ -11,10 +11,8 @@ I build systems around:
 - Data pipelines for patents, scientific papers, and enterprise knowledge bases
 
 Some public projects here explore these themes:
-
+- [MarketAnalysisCopilot](https://github.com/carlosocantod/MarketAnalysisCopilot): AI-assisted market analysis.
+- [GOSIM-agent](https://github.com/carlosocantod/GOSIM-agent): analysis of medical literature. Science communication helper.
 - [CHI_corpus_analysis](https://github.com/carlosocantod/CHI_corpus_analysis): analysis and hybrid search over CHI conference papers.
-- [GOSIM-agent](https://github.com/carlosocantod/GOSIM-agent): agent experiments.
-- [MarketAnalysisCopilot](https://github.com/carlosocantod/MarketAnalysisCopilot): early work around AI-assisted market analysis.
-- [AudioTranscript](https://github.com/carlosocantod/AudioTranscript): audio transcription and summarization app.
 
 Currently interested in practical AI systems that make large, messy knowledge spaces easier to explore.
