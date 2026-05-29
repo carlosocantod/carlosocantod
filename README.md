@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Ocanto
 
-Principal Data Scientist based in Paris, working on production AI systems for search, retrieval, agents, and applied NLP.
+Data Scientist based in Paris, working on production AI systems for search, retrieval, agents, and applied NLP.
 
 I build systems around:
 
